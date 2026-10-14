@@ -1,0 +1,22 @@
+# Local source files, dependencies and reports
+/.local/
+/build/
+/patch/backups/
+/patch/report.json
+
+# Python
+/.venv/
+__pycache__/
+*.py[cod]
+
+# macOS and editors
+.DS_Store
+._*
+.Rhistory
+.idea/
+.vscode/
+*.log
+
+# Local settings
+.env
+.env.*

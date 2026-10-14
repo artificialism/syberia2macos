@@ -1,0 +1,85 @@
+<Object id="Inventory_obj_AmphorePlein" name="Наполненная фляга"/>
+<Object id="Inventory_obj_AmphoreVide" name="Пустая фляга"/>
+<Object id="Inventory_obj_Appeau1" name="Золотой манок"/>
+<Object id="Inventory_obj_Appeau2" name="Серебряный манок"/>
+<Object id="Inventory_obj_Appeau3" name="Черный манок"/>
+<Object id="Inventory_obj_Appeau4" name="Коричневый манок"/>
+<Object id="Inventory_obj_Arete" name="Рыбий скелет"/>
+<Object id="Inventory_obj_Besace" name="Ягдташ"/>
+<Object id="Inventory_obj_BesacePoissonBon" name="Оранжевый  лосось"/>
+<Object id="Inventory_obj_BesacePoissonM01" name="Синий лосось"/>
+<Object id="Inventory_obj_BesacePoissonM02" name="Зеленый лосось"/>
+<Object id="Inventory_obj_BesacePoissonM03" name="Лиловый лосось"/>
+<Object id="Inventory_obj_BidonPlein" name="Канистра"/>
+<Object id="Inventory_obj_BidonVide" name="Пустая канистра"/>
+<Object id="Inventory_obj_BoisRenne" name="Оленьи рога"/>
+<Object id="Inventory_obj_Boite_Allumettes" name="Спичечный коробок"/>
+<Object id="Inventory_obj_BonbonPoisson" name="Рыбные леденцы"/>
+<Object id="Inventory_obj_BonbonRond" name="Конфеты"/>
+<Object id="Inventory_obj_BonbonOval" name="Леденцы «Катала»"/>
+<Object id="Inventory_obj_BouchonPetit" name="Пробка"/>
+<Object id="Inventory_obj_Bougie_Ronce" name="Свеча с травами"/>
+<Object id="Inventory_obj_Bougie_SansRonce" name="Свеча"/>
+<Object id="Inventory_obj_Branches" name="Хворост"/>
+<Object id="Inventory_obj_brosse" name="Щетка"/>
+<Object id="Inventory_obj_Cable" name="Тарзанка"/>
+<Object id="Inventory_obj_Carillon" name="Молельное колесо"/>
+<Object id="Inventory_obj_cisaille" name="Секатор"/>
+<Object id="Inventory_obj_ClefBonbon" name="Ключик"/>
+<Object id="Inventory_obj_Clefcloche" name="Драгоценный ключ"/>
+<Object id="Inventory_obj_ClefGrenier" name="Ключ от чердака"/>
+<Object id="Inventory_obj_clefgrille" name="Ключ от ворот"/>
+<Object id="Inventory_obj_clefivoire" name="Костяной ключ"/>
+<Object id="Inventory_obj_ClefTrain" name="Ключ от паровоза"/>
+<Object id="Inventory_obj_coeurmec" name="Механическое сердце"/>
+<Object id="Inventory_obj_Couteau" name="Костяной нож"/>
+<Object id="Inventory_obj_Couverture01" name="Шерстяное одеяло"/>
+<Object id="Inventory_obj_Couverture02" name="Грязное одеяло"/>
+<Object id="Inventory_obj_Crochetmat" name="Костяной крюк"/>
+<Object id="Inventory_obj_DocJournal" name="Газета" isDocument=true />
+<Object id="Inventory_obj_fleurbleue" name="Цветок Сибирии"/>
+<Object id="Inventory_obj_Fronde" name="Рогатка"/>
+<Object id="Inventory_obj_FruitOnirique" name="Ягоды грез" />
+<Object id="Inventory_obj_Gaze" name="Ветошь"/>
+<Object id="Inventory_obj_Hachette" name="Топор"/>
+<Object id="Inventory_obj_herbe" name="Побеги"/>
+<Object id="Inventory_obj_huile" name="Масленка"/>
+<Object id="Inventory_obj_jeton" name="Жетон"/>
+<Object id="Inventory_obj_Laniere" name="Полоска кожи"/>
+<Object id="Inventory_obj_Leurre01" name="Блесна"/>
+<Object id="Inventory_obj_Leurre02" name="Блесна"/>
+<Object id="Inventory_obj_Leurre03" name="Блесна"/>
+<Object id="Inventory_obj_Leurre04" name="Блесна"/>
+<Object id="Inventory_obj_Leurre05" name="Блесна"/>
+<Object id="Inventory_obj_Leurre06" name="Блесна"/>
+<Object id="Inventory_obj_Leurre07" name="Блесна"/>
+<Object id="Inventory_obj_Leurre08" name="Блесна"/>
+<Object id="Inventory_obj_Leurre09" name="Блесна"/>
+<Object id="Inventory_obj_LivreConfess" name="Записки брата Алексия" isDocument=true />
+<Object id="Inventory_obj_LivrePeche" name="Справочник рыболова" isDocument=true />
+<Object id="Inventory_obj_Masquebois" name="Маска юколов"/>
+<Object id="Inventory_obj_Medaillon" name="Медальон юколов" isDocument=true />
+<Object id="Inventory_obj_Monnaie" name="Монеты"/>
+<Object id="Inventory_obj_Nourriture" name="Рыба"/>
+<Object id="Inventory_obj_osnarval" name="Бивень нарвала"/>
+<Object id="Inventory_obj_PlanTrain" name="Схема поезда" isDocument=true />
+<Object id="Inventory_obj_Plaque01" name="Плитка с иероглифом"/>
+<Object id="Inventory_obj_Plaque02" name="Плитка с иероглифом"/>
+<Object id="Inventory_obj_Plaque03" name="Плитка с иероглифом"/>
+<Object id="Inventory_obj_Plaque04" name="Плитка с иероглифом"/>
+<Object id="Inventory_obj_Plaque05" name="Плитка с иероглифом"/>
+<Object id="Inventory_obj_PoissonBon" name="Оранжевый  лосось"/>
+<Object id="Inventory_obj_PoissonMauvais01" name="Синий лосось"/>
+<Object id="Inventory_obj_PoissonMauvais02" name="Зеленый лосось"/>
+<Object id="Inventory_obj_PoissonMauvais03" name="Лиловый лосось"/>
+<Object id="Inventory_obj_poupeemammouth" name="Игрушка-мамонт"/>
+<Object id="Inventory_obj_PouRusse" name="Матрешка"/>
+<Object id="Inventory_obj_relique" name="Ритуальный цилиндр"/>
+<Object id="Inventory_obj_Rouleau0" name="Письмо Ганса сестре"  isDocument=true />
+<Object id="Inventory_obj_Rouleau" name="Пергамент" isDocument=true />
+<Object id="Inventory_obj_SoulierGlace" name="Кошки"/>
+<Object id="Inventory_obj_SoutanePlie" name="Ряса"/>
+<Object id="Inventory_obj_Stencil" name="Стекло с мамонтом" />
+<Object id="Inventory_obj_suaire" name="Холстина с отпечатком"/>
+<Object id="Inventory_obj_suairesanshans" name="Холстина"/>
+<Object id="Inventory_obj_VetPlieKate" name="Зимняя одежда"/>

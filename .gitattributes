@@ -1,0 +1,8 @@
+* text=auto
+*.py text eol=lf
+*.command text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+
+# Keep game resources byte-for-byte intact, including legacy text encodings.
+patch/Resources/** -text
