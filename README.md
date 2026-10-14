@@ -43,5 +43,5 @@ cp scripts/install_patch.py build/new-macos-ru/install.py
 python3 scripts/build_patch.py --encoding utf8 --audio --video-audio --output build/utf8-trial
 cp scripts/install_patch.py build/utf8-trial/install.py
 ```
-###UPD
+### UPD
 Вроде это ласт мой потуг, за последнее время залил 3 репо на гитхаб, 2 вроде даже серьезные вполне. Честно без понятия кому это пригодится, ощущение что про Syberia знают/помнят и так полтора человека, а русификатор для силикон маков... Надеюсь кому-то все же это поможет!
