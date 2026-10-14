@@ -26,7 +26,7 @@ python3 "../syberia2macos/build/macos-ru/install.py" install
 python3 "/Users/maratkhisyametdinov/dev/syberia2rus/build/macos-ru/install.py" restore --backup "/полный/путь/из/сообщения/установщика"
 ```
 
-Если Steam обновил или изменил заменённые файлы, автоматический откат откажется их перезаписывать. Проверка целостности игры через Steam восстанавливает официальные ресурсы и удаляет изменения русификатора.
+Если Steam обновил или изменил заменённые файлы, автоматический откат откажется их перезаписывать. Проверка целостности игры через Steam восстанавливает официальные ресурсы
 
 ## Дополнительно
 
@@ -43,3 +43,5 @@ cp scripts/install_patch.py build/new-macos-ru/install.py
 python3 scripts/build_patch.py --encoding utf8 --audio --video-audio --output build/utf8-trial
 cp scripts/install_patch.py build/utf8-trial/install.py
 ```
+###UPD
+Вроде это ласт мой потуг, за последнее время залил 3 репо на гитхаб, 2 вроде даже серьезные вполне. Честно без понятия кому это пригодится, ощущение что про Syberia знают/помнят и так полтора человека, а русификатор для силикон маков... Надеюсь кому-то все же это поможет!
